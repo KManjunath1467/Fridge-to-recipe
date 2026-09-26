@@ -1,11 +1,10 @@
-import React from 'react'
-
 export default function Footer() {
   return (
     <footer>
       <p>
         © {new Date().getFullYear()} Manjunath K
         <span className="separator"> | </span>
+
         <a
           href="https://github.com/KManjunath1467"
           target="_blank"
@@ -16,5 +15,5 @@ export default function Footer() {
         </a>
       </p>
     </footer>
-  )
+  );
 }
