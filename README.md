@@ -217,13 +217,6 @@ Make sure the following are installed:
 - Ollama
 - Git
 
-- git clone https://github.com/KManjunath1467/fridge-to-recipe.git
-- cd fridge-to-recipe
-- npm install
-- ollama pull llama3.2:3b
-- npm start
-
-
 ---
 
 ## 1. Clone the Repository
